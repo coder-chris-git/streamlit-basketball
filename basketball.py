@@ -11,8 +11,8 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 st.markdown("""
 This app performs simple webscraping of NBA player stats data.
 * **Python libraries: ** base64,pandas, streamlit
-* **Data source:** [Baksetball-refrence.com]
-("https://https://www.basketball-reference.com)
+* **Data source:** [https://www.basketball-reference.com]
+("https://www.basketball-reference.com)
 """)
 
 st.sidebar.header('User Input Features')
